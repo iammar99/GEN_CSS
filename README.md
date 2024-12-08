@@ -169,6 +169,6 @@ Follow these steps to Run the app
 
 ### Live Demo
 
-[Tour Guide](https://tour-planner-dun.vercel.app/)
+[GEN CSS](https://gen-css.vercel.app/)
 
 
