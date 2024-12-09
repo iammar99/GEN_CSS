@@ -20,6 +20,7 @@
   - [Team](#team)
   - [Demo](#demo)
     - [Live Demo](#live-demo)
+    - [Video Demo](#video-demo)
 
 
 
@@ -170,5 +171,11 @@ Follow these steps to Run the app
 ### Live Demo
 
 [GEN CSS](https://gen-css.vercel.app/)
+
+### Video Demo
+
+[View my video](/src/Assets/WhatsApp%20Video%202024-12-09%20at%2015.21.40_c01d4a52.mp4)
+
+
 
 
