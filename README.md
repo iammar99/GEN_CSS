@@ -174,8 +174,7 @@ Follow these steps to Run the app
 
 ### Video Demo
 
-[View my video](/src/Assets/WhatsApp%20Video%202024-12-09%20at%2015.21.40_c01d4a52.mp4)
-
+[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://vimeo.com/1037432075)
 
 
 
